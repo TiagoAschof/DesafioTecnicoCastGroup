@@ -1,0 +1,7 @@
+br\com\castgroup\services\Services.class
+br\com\castgroup\repository\LeftRepository.class
+br\com\castgroup\Application.class
+br\com\castgroup\models\Right.class
+br\com\castgroup\controller\Controller.class
+br\com\castgroup\models\Left.class
+br\com\castgroup\repository\RightRepository.class
